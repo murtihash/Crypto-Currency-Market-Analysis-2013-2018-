@@ -2,3 +2,4 @@
 # Obtained from Kaggle. Updated by Jvent 3 months ago.(ver 17)
 # 942000 observations for 2071 crypto currencies
 # Time series analysis of top 10 crypto currencies
+# link for dataset and description = https://www.kaggle.com/jessevent/all-crypto-currencies
