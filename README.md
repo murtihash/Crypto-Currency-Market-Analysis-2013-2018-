@@ -1,3 +1,4 @@
+# In order to view ALL plots : https://nbviewer.jupyter.org/github/murtihash/Crypto-Currency-Market-Analysis-2013-2018-/blob/master/Crypto%20Analysis.ipynb
 # Crypto-Currency-Market-Analysis-2013-2018-
 # Obtained from Kaggle. Updated by Jvent 3 months ago.(ver 17)
 # 942000 observations for 2071 crypto currencies
